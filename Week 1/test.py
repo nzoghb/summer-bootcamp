@@ -3,7 +3,7 @@
 # See Notebook 1 for help
 
 import unittest
-from Assignment1 import *
+from assignment1 import *
 
 
 class test1(unittest.TestCase):
